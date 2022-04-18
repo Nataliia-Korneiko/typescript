@@ -1,0 +1,24 @@
+{
+  "name": "ts-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nataliia-Korneiko/typescript.git"
+  },
+  "keywords": [],
+  "author": "Nataliia Korneiko <korneyko_ns@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nataliia-Korneiko/typescript/issues"
+  },
+  "homepage": "https://github.com/Nataliia-Korneiko/typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.0.1"
+  }
+}
